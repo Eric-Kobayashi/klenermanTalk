@@ -65,22 +65,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "2eb007ff7c0a8cd1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "62a3342b9917fc0e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -230,10 +214,14 @@
   },
   "active": "0203fc3a3db21a1a",
   "lastOpenFiles": [
-    "README.md",
     "Parts Lab.md",
     "Packaging software.md",
     "Lehner Lab.md",
-    "Trynka Lab.md"
+    "Trynka Lab.md",
+    "assets/softpack.jpeg",
+    "assets/IMG_3012.jpeg",
+    "assets/demo.png",
+    "assets",
+    "README.md"
   ]
 }
