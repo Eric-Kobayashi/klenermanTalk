@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lehner Lab.md",
+                "file": "Parts Lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lehner Lab"
+              "title": "Parts Lab"
             }
           }
         ]
@@ -166,8 +166,17 @@
   },
   "active": "2c5ec612d0d49fde",
   "lastOpenFiles": [
-    "Packaging software - Softpack.md",
     "Lehner Lab.md",
+    "assets/Pasted image 20250426101246.png",
+    "assets/Pasted image 20250426095054.png",
+    "/assets/Pasted image 20250426101246.png",
+    "/assets/Pasted image 20250426095054.png",
+    "/assets/Pasted image 20250426094758.png",
+    "assets/Pasted image 20250426094758.png",
+    "/assets",
+    "/Packaging software - Softpack.md",
+    "/Lehner Lab.md",
+    "Packaging software - Softpack.md",
     "Parts Lab.md",
     "Trynka Lab.md",
     "assets/demo.png",
@@ -176,8 +185,6 @@
     "/assets/softpack.jpeg",
     "/assets/demo.png",
     "/Parts Lab.md",
-    "/Packaging software.md",
-    "/Lehner Lab.md",
-    "/assets"
+    "/Packaging software.md"
   ]
 }
