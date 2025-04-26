@@ -7,3 +7,8 @@ MaveDB is a public repository for datasets from Multiplexed Assays of Variant Ef
 These data contain many missing data, an example showing below:
 ![Fig. 2](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-019-1845-6/MediaObjects/13059_2019_1845_Fig2_HTML.png)
 
+Statistical methods?
+Diffusion model?
+Tabular data model?
+
+If someone is interested in the project and wants to learn some machine learning on the side, please let me know!
